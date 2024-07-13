@@ -100,7 +100,6 @@ gcc -o lista_simples lista_ligada_simples.c
 ## Autor
 
 Giovanni Anselmo Fernandes Coelho de Ornellas
-Cientista da Computação - UFRJ
 
 ## Status do Projeto
 
