@@ -1,4 +1,6 @@
-# Estudos de Estrutura de Dados em C
+# Estudos de Estrutura de Dados em C 🎲
+
+Fala Devs, tudo bem?
 
 Este repositório contém exemplos e exercícios de várias estruturas de dados implementadas na linguagem C. O objetivo é fornecer uma referência prática para estudantes e desenvolvedores que desejam aprofundar seus conhecimentos em estruturas de dados utilizando C.
 
@@ -15,7 +17,7 @@ Este repositório contém exemplos e exercícios de várias estruturas de dados 
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Referências](#referências)
-- [Autores](#autores)
+- [Autor](#autores)
 - [Status do Projeto](#status-do-projeto)
 
 ## Introdução
