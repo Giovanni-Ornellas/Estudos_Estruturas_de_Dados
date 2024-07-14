@@ -8,12 +8,17 @@ Este repositório contém exemplos e exercícios de várias estruturas de dados 
 
 - [Introdução](#introdução)
 - [Estruturas de Dados](#estruturas-de-dados)
-  - [Listas Ligadas](#listas-ligadas)
+  - [Complexidade de Algoritmos](#complexidade-de-algoritmos)
+  - [Recursividade](#recursividade)    
+  - [Listas Lineares](#listas-lineares)
   - [Pilhas](#pilhas)
   - [Filas](#filas)
   - [Árvores](#árvores)
-  - [Grafos](#grafos)
-  - [Tabelas Hash](#tabelas-hash)
+  - [Listas de_Prioridades](#listas-de-prioridades)
+  - [Algoritmos_de_Ordenação](#algoritmos-de-ordenação)
+  - [Estruturas_Autoajustáveis](#estruturas-autoajustáveis)
+  - [Tabelas_de_Disperção](#tabelas-de-disperção)
+  - [Processamento_de_Cadeias](#procesamento-de-cadeias)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Referências](#referências)
@@ -26,9 +31,15 @@ Este projeto visa fornecer uma implementação prática de várias estruturas de
 
 ## Estruturas de Dados
 
-### Listas Ligadas
+### Recursividade
+Implementações e exercícios de recursividade
 
-Implementações de listas ligadas simples, duplamente ligadas e circulares.
+### Complexidade de Algoritmos
+Análise de algoritmos usando notação O
+
+### Listas Lineares
+
+Implementações de listas ligadas simples, duplamente ligadas e circulares. Tanto sequenciais quanto encadeadas.
 
 - **Lista Ligada Simples**
 - **Lista Duplamente Ligada**
@@ -36,18 +47,17 @@ Implementações de listas ligadas simples, duplamente ligadas e circulares.
 
 ### Pilhas
 
-Implementação de pilhas usando arrays e listas ligadas.
+Implementação de pilhas usando arrays e listas encadeadas.
 
 - **Pilha com Array**
-- **Pilha com Lista Ligada**
+- **Pilha com Lista Encadeadas**
 
 ### Filas
 
-Implementação de filas usando arrays e listas ligadas.
+Implementação de filas usando arrays e listas encadeadas.
 
 - **Fila com Array**
-- **Fila com Lista Ligada**
-- **Fila de Prioridade**
+- **Fila com Lista Encadeada**
 
 ### Árvores
 
@@ -57,21 +67,46 @@ Implementações de várias estruturas de árvores.
 - **Árvore AVL**
 - **Árvore Rubro-Negra**
 - **Árvore B**
+- **Árvore Digital**
+- **Árvore Digital Binária**
+- **Árvore Patrícia**
 
-### Grafos
 
-Implementações de grafos com listas de adjacência e matrizes de adjacência.
+### Listas de Prioridades
 
-- **Grafo com Lista de Adjacência**
-- **Grafo com Matriz de Adjacência**
-- **Algoritmos de Busca (DFS, BFS)**
+Implementação de listas de prioridades
 
-### Tabelas Hash
+- **Lista de Prioridade**
+- **Lista de Prioridade (L,U)-limitade**
+- **m-Heap**
+- **Heaps Esquerdistas**
+- **Heaps Binomiais**
+- **Heaps de Fibonacci**
 
-Implementação de tabelas hash com diferentes métodos de tratamento de colisões.
+### Algoritmos de Ordenação
 
-- **Tabela Hash com Endereçamento Aberto**
-- **Tabela Hash com Encadeamento**
+- **Bubble Sort**
+- **MergeSort**
+- **QuickSort**
+- **HeapSort**
+
+### Estruturas Autoajustáveis
+- **Complexidade Amortizada**
+- **Listas**
+- **Conjuntos**
+- **Árvores de Difusão**
+
+### Tabelas de Disperção
+- **Funções de Disperção**
+- **Tratamento de Colisões por Encadeamento**
+- **Tratamento de Colisões por Endereçamento Aberto**
+- **Tabelas de Disperção Dinâmica**
+
+### Processamento de Cadeias
+- **Algoritmo de Força Bruta**
+- **Algoritmo de Knuth, Morris, Pratt**
+- **Algoritmo de Frequência de Caracteres**
+- **Algoritmo de Huffman**
 
 ## Instalação
 
@@ -96,6 +131,7 @@ gcc -o lista_simples lista_ligada_simples.c
 
 ## Referências
 
+- Estruturas de Dados e Seus Algoritmos - 3°ed - Jayme
 
 ## Autor
 
