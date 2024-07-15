@@ -30,15 +30,18 @@ Este repositório contém exemplos e exercícios de várias estruturas de dados 
 Este projeto visa fornecer uma implementação prática de várias estruturas de dados clássicas em C, juntamente com exemplos de uso e testes. Cada estrutura de dados é implementada de forma modular, com código bem documentado para facilitar a compreensão.
 
 ### Níveis de entendimento
-O conhecimento de estrutura de dados pode ser dividido em três fases ou níveis:
+Como forma de autoavaliação, é útil dividir o conhecimento de estrutura de dados em três fases ou níveis:
 - *Nível 1*:
 	- Você sabe o quê são as estruturas de dados e como elas funcionam em termos gerais
 - *Nível 2:*
 	- Você sabe como elas funcionam em detalhes e é capaz de fazer as análises baseadas em tempo e espaço
 - Nível 3:
 	- Você sabe como elas funcionam em detalhes, é capaz de programar cada uma delas e consegue desenvolver suas próprias estruturas de dados.
+ 
+Mnha expectativa é que este repositório te ajude a chegar no nível 3 :)
 
 ## Estruturas de Dados
+Segue abaixo um resumo do que poderá ser encontrado sobre cada tópico.
 
 ### Recursividade
 Implementações e exercícios de recursividade
