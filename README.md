@@ -132,6 +132,7 @@ gcc -o lista_simples lista_ligada_simples.c
 ## Referências
 
 - Estruturas de Dados e Seus Algoritmos - 3°ed - Jayme
+- Mastering Data Structures & Algorithms using C and C++ - Udemy
 
 ## Autor
 
